@@ -31,7 +31,7 @@ h2 {
     list-style: none;
 }
 
-.header__link_active:focus {
+.header__link_active {
     text-decoration: none;
 }
 
@@ -288,7 +288,7 @@ h2 {
     text-underline-offset: 4px;
 }
 
-.footer__menu-link_active:focus {
+.footer__menu-link_active {
     text-decoration: none;
 }
 
